@@ -1,0 +1,14 @@
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\bin\Debug\GestiuneaCheltuielilor.exe.config
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\bin\Debug\GestiuneaCheltuielilor.exe
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\bin\Debug\GestiuneaCheltuielilor.pdb
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.csproj.AssemblyReference.cache
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.Categorie.resources
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.Cheltuieli.resources
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.FCheltuialaAct.resources
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.FStart.resources
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.Produse.resources
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.Properties.Resources.resources
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.csproj.GenerateResource.cache
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.csproj.CoreCompileInputs.cache
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.exe
+E:\Facultate FMI\An 3\Tehnici avansate de programare\Proiect\GestiuneaCheltuielilor\GestiuneaCheltuielilor\obj\Debug\GestiuneaCheltuielilor.pdb
